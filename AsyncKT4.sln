@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncKT4", "AsyncKT4.csproj", "{C35BA706-F6E9-4985-A73B-C51CEF76338E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35BA706-F6E9-4985-A73B-C51CEF76338E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35BA706-F6E9-4985-A73B-C51CEF76338E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35BA706-F6E9-4985-A73B-C51CEF76338E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35BA706-F6E9-4985-A73B-C51CEF76338E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE099107-6A94-4938-AA62-A078A197A181}
+	EndGlobalSection
+EndGlobal
